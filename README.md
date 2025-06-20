@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# data_strategy_bot
+=======
 # Data Strategy Recommendation Bot
 
 A CLI-based bot that receives organizational inputs and generates data strategy recommendations based on DMBOK/CDMP framework using OpenAI and Qdrant vector database.
@@ -67,3 +70,4 @@ data_strategy_bot/
 
 This project is for educational and professional development purposes.
 
+>>>>>>> 7f2fcd9 (Initial commit)
